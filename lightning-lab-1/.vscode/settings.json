@@ -1,0 +1,6 @@
+{
+  "redhat.telemetry.enabled": true,
+  "yaml.schemas": {
+    "kubernetes": "*.yaml"
+  }
+}
